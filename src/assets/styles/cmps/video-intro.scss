@@ -1,0 +1,112 @@
+.video-intro {
+  margin-top: 160px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 900px) {
+  .text-input-area {
+    width: 20%;
+  }
+  .chat-input-holder {
+    width: 700px;
+  }
+  .video-intro video {
+    width: 300px;
+  }
+  .chatbox {
+    .my-button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: -10px;
+    }
+  }
+}
+
+@media (max-width: 420px) {
+  .delle-img {
+  //  width: 629px;
+    display: flex;
+    height: 258px;
+    justify-content: center;
+
+  .chat-log {
+    .the-story-main {
+      display: flex;
+      flex-direction: column-reverse;
+      gap: 2px;
+    }
+    .story-text {
+      width: 358px;
+      font-size: 20px;
+    }
+  }
+
+  .the-story-img {
+    height: 222px;
+    img {
+      margin-left: -20px;
+      object-fit: initial;
+      border-radius: 10px;
+      max-width: 63%;
+      border-radius: 20px;
+    }
+  }
+}
+  .headeline {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    span {
+      font-size: 20px;
+      margin-right: 15px;
+    }
+  }
+  .main-layout {
+    overflow: hidden;
+    overflow: hidden;
+  }
+  .home-page {
+    max-width: 298px;
+  }
+  .type-writer {
+    top: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    width: 320px;
+    font-family: monospace;
+    color: white;
+    
+  }
+  .chat-input-holder {
+    padding: 12px;
+    width: 300px;
+    
+  }
+  .spline-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+
+    .spline {
+      position: absolute;
+      margin-top: 286px;
+      margin-left: -49px;
+    }
+  }
+
+  .video-intro video {
+    width: 300px;
+  }
+  .chatbox {
+    max-width: 400px;
+    .my-button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: -10px;
+    }
+  }
+}

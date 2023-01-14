@@ -1,0 +1,24 @@
+// SETUP
+@import './setup/functions';
+@import './setup/mixins';
+@import './setup/typography';
+@import './setup/variables';
+
+
+// // BASICS
+@import './basics/layout';
+@import './basics/base';
+@import './basics/helpers';
+
+
+// // COMPONENTS
+
+@import './cmps/app-header';
+@import './cmps/type-writer.scss';
+@import './cmps/home-page.scss';
+@import './cmps/video-intro.scss';
+@import './cmps/btn.scss';
+@import './cmps/voice-btn.scss';
+@import './cmps/dalle.scss';
+@import './cmps/side-bar-humburger.scss';
+@import './cmps/the-storyai.scss';

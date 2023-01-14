@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Alon-Avisar/chatgpt-react/static/css/main.a1b616e0.css",
+    "main.js": "/Alon-Avisar/chatgpt-react/static/js/main.c2393601.js",
+    "static/js/227.ae34dfca.chunk.js": "/Alon-Avisar/chatgpt-react/static/js/227.ae34dfca.chunk.js",
+    "static/js/526.f83df7aa.chunk.js": "/Alon-Avisar/chatgpt-react/static/js/526.f83df7aa.chunk.js",
+    "static/js/232.00f537b0.chunk.js": "/Alon-Avisar/chatgpt-react/static/js/232.00f537b0.chunk.js",
+    "static/js/237.9da0d73c.chunk.js": "/Alon-Avisar/chatgpt-react/static/js/237.9da0d73c.chunk.js",
+    "static/js/787.fa039871.chunk.js": "/Alon-Avisar/chatgpt-react/static/js/787.fa039871.chunk.js",
+    "static/media/ai.mp4": "/Alon-Avisar/chatgpt-react/static/media/ai.91650d98d7c0baeadde6.mp4",
+    "static/media/ai.png": "/Alon-Avisar/chatgpt-react/static/media/ai.2d97ed3e67b5af29b4b6.png",
+    "index.html": "/Alon-Avisar/chatgpt-react/index.html",
+    "main.a1b616e0.css.map": "/Alon-Avisar/chatgpt-react/static/css/main.a1b616e0.css.map",
+    "main.c2393601.js.map": "/Alon-Avisar/chatgpt-react/static/js/main.c2393601.js.map",
+    "227.ae34dfca.chunk.js.map": "/Alon-Avisar/chatgpt-react/static/js/227.ae34dfca.chunk.js.map",
+    "526.f83df7aa.chunk.js.map": "/Alon-Avisar/chatgpt-react/static/js/526.f83df7aa.chunk.js.map",
+    "232.00f537b0.chunk.js.map": "/Alon-Avisar/chatgpt-react/static/js/232.00f537b0.chunk.js.map",
+    "237.9da0d73c.chunk.js.map": "/Alon-Avisar/chatgpt-react/static/js/237.9da0d73c.chunk.js.map",
+    "787.fa039871.chunk.js.map": "/Alon-Avisar/chatgpt-react/static/js/787.fa039871.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1b616e0.css",
+    "static/js/main.c2393601.js"
+  ]
+}

@@ -1,0 +1,51 @@
+.side-bar-hamburger {
+  button {
+    color: white;
+    display: none;
+  }
+
+}
+
+.sub-header-section {
+    display: flex;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+.side-bar-navigations{
+  display: flex;
+  margin-left: 20px;
+  gap: 50px;
+  padding-top: 40px;
+  flex-direction: column;
+  a{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+    font-family: monospace;
+
+  }
+}
+.side-bar-navigations:hover{
+
+  a{
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(76, 76, 76);
+    // font-family: monospace;
+
+  }
+}
+
+@media (max-width: 420px) {
+  .side-bar-hamburger {
+    button {
+      margin-right: -40px;
+      color: white;
+      display: block;
+    }
+  }
+  .sub-header-section {
+    display: none;
+  }
+}
