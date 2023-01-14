@@ -42,7 +42,7 @@ export const DalleImg = ({ gptMsg, userMsg }) => {
     <div>
 
       { isLoading ?  <CircularIndeterminate/> : 
-        <img className="story-img-container"   src={imageUrl} /> }
+        <img className="story-img-container"  src={imageUrl} /> }
     </div>
   
     </div>
